@@ -21,7 +21,6 @@
 body{
     background-color: var(--bg-colour);
     color: var(--text-colour);
-    overflow: hidden;
 }
 
         /* Header Section code   */
